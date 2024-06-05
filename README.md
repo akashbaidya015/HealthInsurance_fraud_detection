@@ -11,7 +11,8 @@ The cost of misclassification can be very high.
 The number of false negatives should be less.
 No strict latency concerns.
 Model interpretability is important. A probability of the provider being a fraud can be provided to make a more informed decision.
-Performance Metrics
+
+Performance Metrics Used
 
 Recall
 Precision
