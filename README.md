@@ -19,7 +19,7 @@ Precision
 F1 Score
 AUC Score
 
-# Datassets
+# Datasets
 
 The 4 Datasets used are 
 combined_beneficiary.csv
