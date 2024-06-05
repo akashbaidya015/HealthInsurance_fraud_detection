@@ -12,9 +12,17 @@ The number of false negatives should be less.
 No strict latency concerns.
 Model interpretability is important. A probability of the provider being a fraud can be provided to make a more informed decision.
 
-Performance Metrics Used
+# Performance Metrics Used
 
 Recall
 Precision
 F1 Score
 AUC Score
+
+# Datassets
+
+The 4 Datasets used are 
+combined_beneficiary.csv
+combined_data.csv
+combined_inpatient.csv
+combined_outpatient.csv
